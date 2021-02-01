@@ -2969,6 +2969,11 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Bicycle__c.Type__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Campaign.ActualCost</field>
         <readable>false</readable>
@@ -9503,6 +9508,9 @@
         <field>copado__User_Story__c.copado__userStory_reason__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <layoutAssignments>
+        <layout>Bicycle__c-Bicycle Layout</layout>
+    </layoutAssignments>
     <layoutAssignments>
         <layout>ContactPointAddress-Contact Point Address Layout</layout>
     </layoutAssignments>
