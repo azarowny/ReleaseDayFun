@@ -26,7 +26,9 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+
                 <field>I_Love_Release_Days__c</field>
+
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
@@ -44,7 +46,15 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+
                 <field>Geography__c</field>
+
+            </layoutItems>
+          <layoutItems>
+                <behavior>Edit</behavior>
+
+                <field>Merge_Conflict__c</field>
+
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsTopToBottom</style>
